@@ -18,7 +18,7 @@ export default class Header extends Component {
         <li>© Copyright 2020 Djale</li>
       </ul>
     </div>
-    <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
+    <div id="go-top"><a className="smoothscroll" title="Back to Top" href={"#home"}><i className="icon-up-open" /></a></div>
   </div>
 </footer> {/* Footer End*/}
 
