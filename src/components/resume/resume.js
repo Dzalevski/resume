@@ -64,24 +64,6 @@ export default class Resume extends Component {
       </div> {/* item end */}
     </div> {/* main-col end */}
   </div> {/* End Work */}
-  {/* Skills
------------------------------------------------ */}
-  <div className="row skill">
-    <div className="three columns header-col">
-      <h1><span>Skills</span></h1>
-    </div>
-    <div className="nine columns main-col">
-      <div className="bars">
-        <ul className="skills">
-          <li><span className="bar-expand php" /><em>PHP</em></li>
-          <li><span className="bar-expand wordpress" /><em>Wordpress</em></li>
-          <li><span className="bar-expand go" /><em>Go</em></li>
-          <li><span className="bar-expand mysql" /><em>MySQL</em></li>
-          <li><span className="bar-expand java" /><em>Java</em></li>
-        </ul>
-      </div>{/* end skill-bars */}
-    </div> {/* main-col end */}
-  </div> {/* End skills */}
 </section> {/* Resume Section End*/}
 
       </React.Fragment>
